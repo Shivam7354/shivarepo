@@ -1,0 +1,10 @@
+let userName:string="shivam";
+let password="abc@gmail.com";
+let userAge=24;
+let salary=10000.20;
+let userDetails=`He is programmer ${userName}`;
+console.log(typeof userName);
+console.log(typeof password);
+console.log(typeof userAge);
+console.log(typeof salary);
+console.log(userDetails);
